@@ -6,7 +6,7 @@ const {
   HashTable
 } = require('../homework');
 
-describe('Una linked list', function() {
+xdescribe('Una linked list', function() {
   var linkedList;
 
   beforeEach(function() {
